@@ -1,8 +1,14 @@
 # Contributing
 
+## Requirements
+- Node.js (LTS recommended)
+- npm
+
 ## Setup
-- Requirements: (node/python/go/dotnet version)
-- Copy `.env.example` to `.env`
+```bash
+npm install
+cp .env.example .env
+```
 
 ## Development
 - Install deps: `...`
